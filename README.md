@@ -31,8 +31,4 @@
 - numpy==1.24.3
 - matplotlib==3.7.5
 - seaborn==0.12.2
-- tqdm==4.67.1
 - nltk==3.9.1
-- regex==2024.11.6
-- jupyterlab==4.1.5
-- ipykernel==6.29.4
